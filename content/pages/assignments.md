@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the assignments for each lecture
+  session.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

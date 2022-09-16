@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Renderings and photos of several student projects are included in these
+  galleries. All student work is used with permission.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Galleries

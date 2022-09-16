@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details about the various activities students complete
+  in and out of class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

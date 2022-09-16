@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study materials to supplement the lecture sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -48,7 +49,7 @@ Basic Function of Costumes ({{% resource_link 13230cce-4e0d-057f-ac99-8b0c1b503a
 
 Reading the Play ({{% resource_link a2feb1e9-da3d-c66d-b472-857d9abbe1ad "PDF" %}})
 
-Stencil Rendering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bc73cc30-1e78-4d74-88ac-b6364ff16308 "PDF" %}})
+Stencil Rendering ({{% resource_link bc73cc30-1e78-4d74-88ac-b6364ff16308 "PDF" %}})
 
 
 {{< tdclose >}}
